@@ -1,0 +1,51 @@
+/* Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500&family=Poppins:wght@400;500;700&family=Roboto:wght@400;700&display=swap');
+
+
+/* Customize Bootstrap  */
+.banner-sectiton, .casual-shoe, .information{
+    margin-bottom: 100px;
+}
+.banner-sectiton{
+    margin-top: 100px;
+}
+.information{
+    margin-top: 150px;
+}
+.buy-now-btn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: #fff;
+    outline: none;
+    border: none;
+}
+.nike-react, .price-tag{
+    color: #FA804C;
+}
+.banner-info h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5em;
+}
+.card{
+    border-radius: 10px;
+}
+.card-img img{
+    background-color: #e6e6e6;
+    border-radius: 10px;
+}
+.casual-shoe h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+.card-info{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+}
+.card-info p{
+    color: #000;
+}
+.price-tag{
+        font-family: 'Roboto', sans-serif;
+}
+.txt-nvy{
+    color: #363958;
+}
